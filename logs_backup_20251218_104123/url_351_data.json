@@ -1,0 +1,11 @@
+{
+  "additionalData": null,
+  "graphql": null,
+  "sharedData": {
+    "platform_install_badge_links": {
+      "android": "https://static.cdninstagram.com/rsrc.php/v4/yz/r/c5Rp7Ym-Klz.png",
+      "ios": "https://static.cdninstagram.com/rsrc.php/v4/yt/r/Yfc020c87j0.png",
+      "windows_nt_10": "https://static.cdninstagram.com/rsrc.php/v4/yu/r/EHY6QnZYdNX.png"
+    }
+  }
+}

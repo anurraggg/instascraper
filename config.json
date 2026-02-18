@@ -1,0 +1,8 @@
+{
+  "input_file": "input/Instagram_URLS.csv",
+  "output_file": "output/instagram_data.xlsx",
+  "headless": false,
+  "timeout": 30000,
+  "wait_time": 3000,
+  "max_retries": 3
+}

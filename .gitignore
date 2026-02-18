@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+
+
+# Data and Logs
+logs/
+logs_new/
+output/
+final_output/
+input/
+*.csv
+*.xlsx
+*.log
+
+# Auth and Sessions
+instagram_session
+instagram_auth.json
+playwright_auth.json
+
+# Debug
+debug_page.html
+instagram_debug.html

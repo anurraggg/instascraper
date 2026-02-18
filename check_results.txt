@@ -1,0 +1,11 @@
+File Name                                | Sheet Name           | Rows  | Columns
+--------------------------------------------------------------------------------
+Instagram_Data_Compiled.xlsx             | Posts_Reels          | 411   | 7    
+Instagram_Data_Compiled.xlsx             | Profiles             | 49    | 5    
+Instagram_Final_Complete.xlsx            | Posts_Reels          | 411   | 7    
+Instagram_Final_Complete.xlsx            | Profiles             | 49    | 5    
+Instagram_Final_Merged.xlsx              | Posts_Reels          | 411   | 6    
+Instagram_Final_Merged.xlsx              | Profiles             | 49    | 5    
+Instagram_Final_Updated_114.xlsx         | Posts_Reels          | 411   | 7    
+Instagram_Final_Updated_114.xlsx         | Profiles             | 49    | 5    
+Instagram_Enriched_Complete.xlsx         | Sheet1               | 185   | 11   
